@@ -18,7 +18,12 @@ ThunderPods leverage modularity to create a variety of 'primative' components th
 
 The ThunderPod primative units have locking tabs at the base that are inserted into the ThunderBoard or below ThunderPods.
 
-### Sizing
+## fairings
+Fairings are available to fill spaces between the walls of the van and the ThunderPods system.
+
+# Naming
+
+## Sizing
 The ThunderPods system is design around a key unit dimension of **360mm**. Different sizes are available and are designated using a standard sizing system:
 **HEIGHT x WIDTH x DEPTH **
 
@@ -28,20 +33,18 @@ and for example a unit 1 unit tall, 2 units wide and 2 units deep would be calle
 ## Naming Designations 
 Names are given based on the the construction of the pod, these are abreviated to two letter identifiers for convenience. An example of the naming is below:
 
-BX - Box
-DR - Drawer
-TD - Trap door
-OS - Open Shelving
-TB - Table top
-CB - Cabinet
-
-## fairings
-Fairings are available to fill spaces between the walls of the van and the ThunderPods system 
+-BX - Box  
+-DR - Drawer  
+-TD - Trap door  
+-OS - Open Shelving  
+-TB - Table top  
+-CB - Cabinet  
+ 
 
 # Building a ThunderPod
-Please dowload the relevent Pod you would like to have built and contact a cutting service via one of the following directories 
-https://www.fabhub.io
-https://100kgarages.com/
+Please dowload the relevent Pod you would like to have built and contact a cutting service via one of the following directories.  
+https://www.fabhub.io  
+https://100kgarages.com/  
 
 
 
