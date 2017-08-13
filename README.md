@@ -1,4 +1,4 @@
-# about ThunerPods
+# about ThunderPods
 ThunderPods were created to maximise the utility and versitility of space within vans and other large vehicles. Whether you are planning to use that vehicle for food preperation, camping, commercial, trade or any other application, ThunderPods allow you to reconfigure your space in new and useful ways as your needs change.
 
 # how ThunderPods works
