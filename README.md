@@ -3,7 +3,7 @@
 # about ThunderPods
 ThunderPods were created to maximise the utility and versitility of space within vans and other large vehicles. Whether you are planning to use that vehicle for food preperation, camping, commercial, trade or any other application, ThunderPods allow you to reconfigure your space in new and useful ways as your needs change.
 
-# how ThunderPods works
+# how ThunderPods work
 The system is built using some key component types. These are:
 
 - A base plate - ThunderBoard
@@ -16,6 +16,8 @@ The ThunderBoard is the base of the system and sits directly on the floor of you
 *NB: The board sits flat on the ground and normal cargo can be placed on top of it directly.*
 
 ## the ThunderPod
+![thunderpod](https://github.com/ThunderPods/Designs/blob/master/images/2x2_chestpod.png?raw=true)
+
 ThunderPods leverage modularity to create a variety of 'primative' components that can be manipulated to almost any specific need.
 
 The ThunderPod primative units have locking tabs at the base that are inserted into the ThunderBoard or below ThunderPods.
@@ -30,9 +32,9 @@ The ThunderPods system is design around a key unit dimension of **360mm**. Diffe
 **HEIGHT x WIDTH x DEPTH **
 
 *ie: a standard minimum unit of 360 x 360 x 360mm will be called: "1x1x1"*
-and for example a unit 1 unit tall, 2 units wide and 2 units deep would be called: **1x2x2** 
+and for example a unit 1 unit tall, 2 units wide and 2 units deep would be called: **1x2x2**
 
-## Naming Designations 
+## Naming Designations
 Names are given based on the the construction of the pod, these are abreviated to two letter identifiers for convenience. An example of the naming is below:
 
 -BX - Box  
@@ -41,14 +43,9 @@ Names are given based on the the construction of the pod, these are abreviated t
 -OS - Open Shelving  
 -TB - Table top  
 -CB - Cabinet  
- 
+
 
 # Building a ThunderPod
 Please dowload the relevent Pod you would like to have built and contact a cutting service via one of the following directories.  
 https://www.fabhub.io  
 https://100kgarages.com/  
-
-
-
-
-
